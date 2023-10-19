@@ -1,0 +1,40 @@
+h2,h3{
+    
+}
+
+.post{
+    width:100%
+}
+
+
+.post-header{
+   
+   margin-left:15%;
+   margin-bottom: 100px;
+   
+   
+
+}
+.post-icons{
+    margin-left: 15%;
+    border-top: 15%;
+}
+.post-puntos{
+    margin-top: 10%;
+    border-radius:50%;
+    margin-left:81%;
+    width: 10px;
+    height:10px; 
+    background-color: black;    
+    
+}
+.post-img{
+    text-align:center;
+    
+}
+.post-body{
+    margin-left:15%;
+    margin-right: 15%;
+    font-family: Roboto;
+    
+}
